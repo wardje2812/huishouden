@@ -4,7 +4,7 @@
   "description": "Applicatie voor het managen van taken voor het huishouden",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wardje2812/huishouden/issues"
   },
-  "homepage": "https://github.com/wardje2812/huishouden#readme"
+  "homepage": "https://github.com/wardje2812/huishouden#readme",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  }
 }
