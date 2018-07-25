@@ -1,0 +1,19 @@
+{
+  "name": "huishouden",
+  "version": "0.1.0",
+  "description": "Applicatie voor het managen van taken voor het huishouden",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wardje2812/huishouden.git"
+  },
+  "author": "Ward Wiechert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wardje2812/huishouden/issues"
+  },
+  "homepage": "https://github.com/wardje2812/huishouden#readme"
+}
